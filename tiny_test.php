@@ -1,6 +1,4 @@
-<?php 
-
-namespace enu\tiny_test;
+<?php namespace enu\tiny_test;
 
 // Useful for environments like WP where all files are in /public.
 if (php_sapi_name() !== 'cli') {
