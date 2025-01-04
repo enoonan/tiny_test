@@ -6,7 +6,7 @@ A tiny drop-in PHP testing library with no dependencies that you can customize o
 
 I work on a lot of wordpress sites and plugins, and I always feel weird pulling in something like PHPUnit or Pest when all I really want to do is make a few simple assertions.
 
-As of this writing, Tiny Test is 102 lines of PHP that lets me do just that:
+As of this writing, Tiny Test is 100 lines of PHP that lets me do just that:
 
 ![Screenshot showing Eileen's terminal - 6 green dots and a "Tests passed 🎉" message](terminal-success-example.png)
 
